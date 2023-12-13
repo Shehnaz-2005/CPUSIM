@@ -1,2 +1,0 @@
-# CPUSIM
-CPUSIM Practicals
